@@ -21,6 +21,10 @@ public class DrawablesActivity extends GridEntriesActivity {
                 new Intent(this, ShapesActivity.class),
                 getString(R.string.module_shapes_title),
                 getString(R.string.module_shapes_desc)));
+        activities.add(new ActivityEntry(
+                new Intent(this, TransitionsActivity.class),
+                getString(R.string.module_transitions_title),
+                getString(R.string.module_transitions_desc)));
         return activities;
     }
 

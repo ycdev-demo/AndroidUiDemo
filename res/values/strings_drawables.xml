@@ -13,4 +13,8 @@
     <string name="drawables_shape_oval">Oval</string>
     <string name="drawables_shape_ring">Ring</string>
     <string name="drawables_shape_line">Line</string>
+
+    <string name="module_transitions_title">Transitions</string>
+    <string name="module_transitions_desc">Transitions demo</string>
+    <string name="drawables_transition">Transition</string>
 </resources>

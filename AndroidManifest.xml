@@ -26,6 +26,10 @@
         <activity
             android:name="me.ycdev.android.uidemo.drawables.ShapesActivity"
             android:label="@string/module_shapes_title" />
+
+        <activity
+            android:name="me.ycdev.android.uidemo.drawables.TransitionsActivity"
+            android:label="@string/module_transitions_title" />
     </application>
 
 </manifest>
