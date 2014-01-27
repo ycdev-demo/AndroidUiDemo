@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval" >
+    <gradient
+        android:centerX="0.3"
+        android:centerY="0.3"
+        android:startColor="#ff0000"
+        android:centerColor="#00ff00"
+        android:endColor="#0000ff"
+        android:type="sweep"
+        android:useLevel="false" /> <!-- doesn't work if useLevel is "true" -->
+</shape>

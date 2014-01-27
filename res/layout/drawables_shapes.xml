@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/AppTheme.ScrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal" >
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/drawables_shape_rectangle_none"
+            android:background="@drawable/shape_rectangle_none" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/drawables_shape_rectangle_all"
+            android:background="@drawable/shape_rectangle_all" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/drawables_shape_rectangle_top"
+            android:background="@drawable/shape_rectangle_top" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/drawables_shape_rectangle_bottom"
+            android:background="@drawable/shape_rectangle_bottom" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/drawables_shape_rectangle_odd"
+            android:background="@drawable/shape_rectangle_odd" />
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:text="@string/drawables_shape_oval"
+            android:background="@drawable/shape_oval" />
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:text="@string/drawables_shape_oval"
+            android:background="@drawable/shape_oval" />
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:text="@string/drawables_shape_ring"
+            android:background="@drawable/shape_ring" />
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:text="@string/drawables_shape_line"
+            android:background="@drawable/shape_line" />
+    </LinearLayout>
+
+</ScrollView>

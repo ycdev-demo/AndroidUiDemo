@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module_drawables_title">Drawables</string>
+    <string name="module_drawables_desc">Drawables demo</string>
+
+    <string name="module_shapes_title">Shapes</string>
+    <string name="module_shapes_desc">Shapes demo</string>
+    <string name="drawables_shape_rectangle_none">Rectangee without corners</string>
+    <string name="drawables_shape_rectangle_all">Rectangle with all corners</string>
+    <string name="drawables_shape_rectangle_top">Rectangle with top corners</string>
+    <string name="drawables_shape_rectangle_bottom">Rectangle with bottom corners</string>
+    <string name="drawables_shape_rectangle_odd">Rectangle with odd corners</string>
+    <string name="drawables_shape_oval">Oval</string>
+    <string name="drawables_shape_ring">Ring</string>
+    <string name="drawables_shape_line">Line</string>
+</resources>
