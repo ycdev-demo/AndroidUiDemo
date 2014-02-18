@@ -3,11 +3,9 @@
     android:shape="rectangle" >
     <corners
         android:radius="10dp" />
-    <solid
-        android:color="@color/btn_bkg_normal" />
     <stroke
         android:width="3dp"
         android:color="#00aa00"
         android:dashWidth="20dp"
-        android:dashGap="10dp" />
+        android:dashGap="0dp" />
 </shape>
