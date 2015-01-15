@@ -2,8 +2,8 @@ package me.ycdev.android.uidemo.base;
 
 import java.util.List;
 
+import me.ycdev.android.lib.common.utils.IntentUtils;
 import me.ycdev.android.uidemo.R;
-import me.ycdev.androidlib.utils.IntentUtils;
 
 import android.app.Activity;
 import android.content.Context;
